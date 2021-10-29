@@ -1,0 +1,189 @@
+﻿  CMatrix4.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(14,1): error C2504: 'CMatrix4D': base class undefined
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(48,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(48,51): error C2143: syntax error: missing ',' before '&'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): message : while trying to match the argument list '(const CPoint3D, const CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): message : while trying to match the argument list '(CPoint3D, CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(73,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(37,26): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(42,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(7,1): warning C4273: 'CMatrix4D::CMatrix4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(24,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(15,1): warning C4273: 'CMatrix4D::CMatrix4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(30,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(24,1): warning C4273: 'CMatrix4D::CMatrix4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(32,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(29,1): warning C4273: 'CMatrix4D::AddMatrices': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(58,19): message : see previous definition of 'AddMatrices'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(51,1): warning C4273: 'CMatrix4D::SubtractMatrices': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(60,19): message : see previous definition of 'SubtractMatrices'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(79,1): warning C4273: 'CMatrix4D::Determinant': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(63,15): message : see previous definition of 'Determinant'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(83,48): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(87,1): warning C4273: 'CMatrix4D::Inverse': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(66,12): message : see previous definition of 'Inverse'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(105,1): warning C4273: 'CMatrix4D::Inverse4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(71,12): message : see previous definition of 'Inverse4D'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(111,17): warning C4244: 'initializing': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(112,17): warning C4244: 'initializing': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(113,17): warning C4244: 'initializing': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(114,17): warning C4244: 'initializing': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(136,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(135,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(134,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(133,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CPlane.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(37,26): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(42,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(48,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(48,51): error C2143: syntax error: missing ',' before '&'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): message : while trying to match the argument list '(const CPoint3D, const CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): message : while trying to match the argument list '(CPoint3D, CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(73,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(9,1): warning C4273: 'SPlane4D::SPlane4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(22,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(17,1): warning C4273: 'SPlane4D::SPlane4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(24,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(25,1): error C2556: 'CVector &SPlane4D::GetNormal(void) const': overloaded function differs only by return type from 'const CVector &SPlane4D::GetNormal(void) const'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(26): message : see declaration of 'SPlane4D::GetNormal'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(24,20): error C2373: 'SPlane4D::GetNormal': redefinition; different type modifiers
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(26): message : see declaration of 'SPlane4D::GetNormal'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(25,1): error C2491: 'SPlane4D::GetNormal': definition of dllimport function not allowed
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(30,1): warning C4273: 'SPlane4D::ScalarProduct': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(31,8): message : see previous definition of 'ScalarProduct'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,17): error C2143: syntax error: missing ')' before '&'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,17): error C2143: syntax error: missing ';' before '&'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,31): error C2530: 'NormalVector': references must be initialized
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,33): error C2062: type 'float' unexpected
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(34,41): error C2059: syntax error: ')'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(35,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(35,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(43,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(43,70): error C2988: unrecognizable template declaration/definition
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(43,70): error C2143: syntax error: missing ',' before '&'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): error C2244: 'SPlane4D::ScalarProduct': unable to match function definition to an existing declaration
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(43): message : see declaration of 'SPlane4D::ScalarProduct'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): message : definition
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): message : 'float SPlane4D::ScalarProduct(const GenericClass &,const int)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): message : existing declarations
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): message : 'float SPlane4D::ScalarProduct(const SPlane4D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(44,1): message : 'float SPlane4D::ScalarProduct(const GenericClass &,const CVector &)'
+  CScaleMatrix.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CScaleMatrix.h(3,10): fatal error C1083: Cannot open include file: 'Source/CMath/CMatrix3.h': No such file or directory
+  CTransfrom.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): message : while trying to match the argument list '(const CPoint3D, const CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): message : while trying to match the argument list '(CPoint3D, CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(73,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(37,26): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(42,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(4,1): warning C4273: 'STransform4D::STransform4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(24,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(16,1): warning C4273: 'STransform4D::STransform4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(28,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(27,1): warning C4273: 'STransform4D::STransform4D': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(30,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(31,1): warning C4273: 'STransform4D::operator []': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(34,11): message : see previous definition of '[]'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(36,1): warning C4273: 'STransform4D::operator []': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(36,17): message : see previous definition of '[]'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(41,1): warning C4273: 'STransform4D::GetTranslation': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(39,25): message : see previous definition of 'GetTranslation'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(46,1): warning C4273: 'STransform4D::SetTranslation': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(42,7): message : see previous definition of 'SetTranslation'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(53,1): warning C4273: 'STransform4D::MakeReflection': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(48,22): message : see previous definition of 'MakeReflection'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(58,1): warning C4273: 'STransform4D::Inverse': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.h(109,22): message : see previous definition of 'Inverse'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(80,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(78,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CTranslationMatrix.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(22,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(22,38): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(23,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(52,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(52,38): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(53,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(53,36): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(62,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(62,38): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(63,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(63,36): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  CVector.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(41,1): message : while trying to match the argument list '(const CPoint3D, const CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): error C2666: 'operator -': 2 overloads have similar conversions
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.h(40,17): message : could be 'CPoint3D operator -(const CPoint3D &,const CPoint3D &)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(103,17): message : or       'CVector operator -(const CVector &,const CVector &)' [found using argument-dependent lookup]
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(59,1): message : while trying to match the argument list '(CPoint3D, CVector)'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.h(73,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(37,26): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.h(42,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(7,1): warning C4273: 'CVector::CVector': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(45,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(11,2): warning C4273: 'CVector::CVector': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(54,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(17,2): warning C4273: 'CVector::CVector': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(56,2): message : see previous definition of '{ctor}'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(30,1): warning C4273: 'CVector::operator []': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(60,9): message : see previous definition of '[]'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(35,1): warning C4273: 'CVector::operator []': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(62,15): message : see previous definition of '[]'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(40,1): warning C4273: 'CVector::operator *=': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(66,11): message : see previous definition of '*='
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(48,1): warning C4273: 'CVector::operator /=': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(68,11): message : see previous definition of '/='
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(58,1): warning C4273: 'CVector::CosineScalarProduct': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(72,13): message : see previous definition of 'CosineScalarProduct'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(59,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(64,1): warning C4273: 'CVector::ScalarProduct': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(74,13): message : see previous definition of 'ScalarProduct'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(65,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(70,1): warning C4273: 'CVector::ProjectionOperation': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(80,10): message : see previous definition of 'ProjectionOperation'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(71,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(71,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(75,1): warning C4273: 'CVector::RejectionOperation': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(83,10): message : see previous definition of 'RejectionOperation'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(76,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(80,1): warning C4273: 'CVector::operator =': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(91,11): message : see previous definition of '='
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(86,1): warning C4273: 'CVector::CrossProductOverloadForNormalCalc': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(93,10): message : see previous definition of 'CrossProductOverloadForNormalCalc'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(99,1): warning C4273: 'CVector::DistPointLine': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(98,8): message : see previous definition of 'DistPointLine'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(102,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(108,1): warning C4273: 'CVector::DistLineLine': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(100,8): message : see previous definition of 'DistLineLine'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(111,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(112,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(113,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(122,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(123,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(132,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(137,1): warning C4273: 'CVector::Normalize': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(106,10): message : see previous definition of 'Normalize'
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(144,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(165,1): warning C4273: 'CVector::CrossProduct': inconsistent dll linkage
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.h(115,17): message : see previous definition of 'CrossProduct'
+  Generating Code...

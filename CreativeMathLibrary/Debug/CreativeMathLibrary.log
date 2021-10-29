@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  CMath.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMath.cpp(57,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CMatrix3.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix3.cpp(74,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CMatrix4.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CMatrix4.cpp(138,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CPlane.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPlane.cpp(47,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CPoint.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CPoint.cpp(2,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CScaleMatrix.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CScaleMatrix.cpp(2,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CTransfrom.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTransfrom.cpp(97,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CTranslationMatrix.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CTranslationMatrix.cpp(140,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CVector.cpp
+C:\Users\Morgan\Desktop\Creative Math Library\CreativeMathLibrary\CreativeMathLibrary\CMath\CMath\CVector.cpp(202,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+  Generating Code...
